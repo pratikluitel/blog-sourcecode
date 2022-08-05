@@ -1,6 +1,9 @@
 # environment
 env
 
+# pre commit config
+.pre-commit-config.yaml
+
 # all models, but not the config file
 */models/*
 !*/models/models.config
