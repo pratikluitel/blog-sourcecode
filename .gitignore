@@ -1,5 +1,6 @@
 # environment
 env
 
-# models
-model
+# all models, but not the config file
+*/models/*
+!*/models/models.config

@@ -8,7 +8,7 @@ Each folder contains the relevant code for one blog post.
 
 | Blog Post | folder    |
 | --------- | --------- |
-|[Making APIs out of your boring Tensorflow models - An Introduction](https://pratikluitel.com.np/2022/08/04/tensorflow-serving.html)|[tensorflow-serving](https://github.com/pratikluitel/blog_code/master/tensorflow-serving)|
+|[Making APIs out of your boring Tensorflow models - An Introduction](https://pratikluitel.com.np/2022/08/04/tensorflow-serving.html)|[tensorflow-serving](https://github.com/pratikluitel/blog-sourcecode/tree/master/tensorflow-serving)|
 
 ## Issues
 I am human, prone to errors and lapses in judgement. If the code is not working as expected, please open an issue, or send a pull request if you have a fix. Your contribution will be greatly appreciated.
