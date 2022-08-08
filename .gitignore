@@ -7,3 +7,13 @@ env
 # all models, but not the config file
 */models/*
 !*/models/models.config
+
+# images
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# markdown
+*.md
+*.markdown
