@@ -1,4 +1,4 @@
-,restaurant_id,location,momo_rating
+id,restaurant_id,location,momo_rating
 0,0,Darjeeling,3.64
 1,1,Delhi,3.14
 2,2,Kathmandu,3.76
