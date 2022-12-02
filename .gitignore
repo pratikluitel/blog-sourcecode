@@ -17,3 +17,7 @@ env
 # markdown
 *.md
 *.markdown
+
+# statistical significance specific
+# scraping script
+scrape_data.py
